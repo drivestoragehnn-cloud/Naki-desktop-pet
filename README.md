@@ -43,7 +43,7 @@ This project is licensed under the MIT License.
 </p>
 
 <p align="center">
-  <a href="YOUR_ITCH_IO_LINK">
+  <a href="https://nikan48.itch.io/naki-desktop-pet">
     <img src="https://lerio.ir/img/naki-itch" alt="Download on itch.io">
   </a>
 </p>
