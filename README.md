@@ -1,49 +1,49 @@
 # Naki 🐾
 
-<p align="center">
-  <img src="https://lerio.ir/img/naki-github" alt="Naki" width="700">
-</p>
+Bring Your Desktop to Life.
 
-<p align="center">
-  <b>Bring Your Desktop to Life.</b>
-</p>
+Naki is a lightweight desktop pet inspired by Neko98.
 
-Naki is a lightweight desktop pet written in Python and inspired by Neko98.
-
-It lives directly on your desktop, bringing personality, interactivity, and fun to your daily computing experience. Naki is designed to be simple, customizable, and enjoyable while consuming minimal system resources.
+Living directly on your desktop, Naki adds personality, fun, and interactivity to your daily computer experience.
 
 ## ✨ Features
 
-- 🐱 Desktop companion inspired by Neko98
+- 🐱 Inspired by the classic Neko98 desktop pet
 - ⚡ Lightweight and fast
-- 🎨 Customizable behavior and appearance
-- 🖥️ Runs directly on your desktop
+- 🎨 Customizable
+- 🖥️ Lives directly on your desktop
 - 🔓 Open Source
-- 🐍 Built with Python
+- 💾 No installation required
 
-## 📦 Installation
+## 📥 Download
 
-```bash
-git clone https://github.com/drivestoragehnn-cloud/Naki-desktop-pet.git
-cd Naki-desktop-pet
-pip install -r requirements.txt
-python main.py
-```
+Download the latest Windows executable from:
 
-## 📸 Screenshot
+- GitHub Releases
+- itch.io
 
-<p align="center">
-  <img src="https://lerio.ir/img/naki-github" alt="Naki Screenshot">
-</p>
+Simply download the `.exe` file and run it.
 
 ## 🤝 Contributing
 
-Pull requests, bug reports, and feature suggestions are welcome.
+Suggestions, bug reports, and pull requests are welcome.
 
 ## 📜 License
 
 This project is licensed under the MIT License.
 
-## ⭐ Support
+---
 
-If you like Naki, consider giving the repository a star on GitHub.
+## Download
+
+<p align="center">
+  <a href="https://github.com/drivestoragehnn-cloud/Naki-desktop-pet/releases">
+    <img src="https://lerio.ir/img/naki-github" alt="Download on GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <a href="YOUR_ITCH_IO_LINK">
+    <img src="https://lerio.ir/img/naki-itch" alt="Download on itch.io">
+  </a>
+</p>
